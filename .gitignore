@@ -1,0 +1,7 @@
+# Jupyter checkpoints and trained model files are local outputs.
+.ipynb_checkpoints/
+models/*.joblib
+
+# Python cache files
+__pycache__/
+*.py[cod]
